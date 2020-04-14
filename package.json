@@ -1,0 +1,19 @@
+{
+  "name": "squisher",
+  "version": "1.0.0",
+  "description": "Component based static web site designer. React, but simpler and worse. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GolddolphinSKB-Fexcraftian/squisher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GolddolphinSKB-Fexcraftian/squisher/issues"
+  },
+  "homepage": "https://github.com/GolddolphinSKB-Fexcraftian/squisher#readme"
+}
